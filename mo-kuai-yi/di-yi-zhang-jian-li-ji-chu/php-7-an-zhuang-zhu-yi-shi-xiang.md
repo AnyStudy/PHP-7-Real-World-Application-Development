@@ -12,3 +12,11 @@
 
 ### 直接从源码安装
 
+为了利用这种方法，你需要有一个 C 编译器。如果你运行的是 Windows，**MinGW** 是一个免费的编译器，它已经被证明很受欢迎。它基于**GNU**项目提供的**GNU**编译器集合（**GCC**）编译器。非免费的编译器包括Borland 公司的经典的**Turbo C**编译器，当然，Windows开发者首选的编译器是**Visual Studio**。不过，后者主要是为 C++ 开发设计的，所以在编译 PHP 时，需要指定 C 模式。
+
+
+
+当在Apple Mac上工作时，最好的解决方案是安装Apple Developer Tools。你可以使用 Xcode IDE 来编译 PHP 7，或者从终端窗口运行 gcc。在 Linux 环境下，从终端窗口运行 gcc。
+
+
+

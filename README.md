@@ -1,14 +1,5 @@
 # 前言
 
-## PHP 7:真实世界的应用开发（中文翻译）
-
-* 作者：[Doug Bierer](https://learning.oreilly.com/search/?query=author%3A%22Doug%20Bierer%22&sort=relevance&highlight=true), [Altaf Hussain](https://learning.oreilly.com/search/?query=author%3A%22Altaf%20Hussain%22&sort=relevance&highlight=true), [Branko Ajzele](https://learning.oreilly.com/search/?query=author%3A%22Branko%20Ajzele%22&sort=relevance&highlight=true)
-* 原书名称：《[PHP 7: Real World Application Development](https://www.packtpub.com/php-7-real-world-application-development)》
-* 译者：金弘扬（[ganymedenil@gmail.com](mailto:ganymedenil@gmail.com)）
-* Gitbook地址：[PHP 7:真实世界的应用开发](https://ganymedenil.gitbook.io/php-7/)
-
-推荐使用 Gitbook 以获取最佳阅读体验。
-
 ## 前言
 
 PHP 7 在开源社区掀起了一场风暴，它打破了之前版本的速度记录，也重新引起了人们对它的关注。从最根本的意义上讲，核心工程团队已经对它进行了重大重写，但仍能保持高度的向后兼容性。PHP是一门开发Web应用的好语言。它本质上是一类服务器端脚本语言，也用于通用编程。PHP 7是最新的版本，提供了主要的向后兼容性突破，并专注于提高性能和速度。这意味着你可以通过多线程网络服务器，用低成本的硬件和服务器维持网站的高流量。
@@ -45,6 +36,4 @@ PHP 7 在开源社区掀起了一场风暴，它打破了之前版本的速度�
 ### 支持
 
 课程的代码包也托管在github上  [https://GitHub.com/packtpublishing/php-7-be-pro-at-applications-development](https://GitHub.com/packtpublishing/php-7-be-pro-at-applications-development) 。
-
-
 
