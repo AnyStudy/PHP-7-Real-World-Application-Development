@@ -45,7 +45,7 @@ public function getDomain($url)
 }
 ```
 
-## 怎么运行的...
+## 它是如何工作的...
 
 首先，先去定义前面定义的 `Application\Web\Deep` 类，以及前面配方中定义的 `Application\Web\Hoover` 类。
 

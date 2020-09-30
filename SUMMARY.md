@@ -10,4 +10,5 @@
     * [实现类的自动加载](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/shi-xian-lei-de-zi-dong-jia-zai.md)
     * [抓取一个网站](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/zhua-qu-yi-ge-wang-zhan.md)
     * [建立一个深度网络扫描器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/jian-li-yi-ge-shen-du-wang-luo-sao-miao-qi.md)
+    * [创建一个 PHP 5到 PHP 7代码转换器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/chuang-jian-yi-ge-php-5-dao-php-7-dai-ma-zhuan-huan-qi.md)
 
