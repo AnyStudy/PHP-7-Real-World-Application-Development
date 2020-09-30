@@ -4,7 +4,7 @@
 
 ## 怎么做...
 
-1.如前所述，深度网络扫描器的核心组件是基本的 `Hoover` 类。本案例中介绍的基本过程是扫描目标网站并收集所有 `HREF` 属性。为此，我们定义了 `Application\Web\Deep` 类。 我们添加一个代表 DNS 域的属性：
+1.如前所述，深度网络扫描器的核心组件是基本的 `Hoover` 类。本示例中介绍的基本过程是扫描目标网站并收集所有 `HREF` 属性。为此，我们定义了 `Application\Web\Deep` 类。 我们添加一个代表 DNS 域的属性：
 
 ```php
 namespace Application\Web;

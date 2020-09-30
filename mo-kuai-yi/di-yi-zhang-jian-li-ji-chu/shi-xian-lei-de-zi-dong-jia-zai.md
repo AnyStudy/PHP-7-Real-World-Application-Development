@@ -8,7 +8,7 @@ PHP 自动加载的最低要求是定义一个全局 **\_\_autoload\(\)** 函数
 
 ## 怎么做...
 
-1.我们将在本案例介绍的类是 `Application \Autoload \Loader`。 为了利用 PHP 名称空间和自动加载之间的关系，我们将文件命名为 `Loader.php` 并将其放置在 `/path/to/cookbook/files/Application/Autoload`文件夹中。
+1.我们将在本示例介绍的类是 `Application \Autoload \Loader`。 为了利用 PHP 名称空间和自动加载之间的关系，我们将文件命名为 `Loader.php` 并将其放置在 `/path/to/cookbook/files/Application/Autoload`文件夹中。
 
 2.我们将介绍的第一个方法只是简单地加载一个文件。在运行 `require_once()` 之前，我们使用 `file_exists()` 来检查。这样做的原因是，如果没有找到文件，`require_once()` 会产生一个致命的错误，而这个错误是不能用 PHP 7 新的错误处理功能来捕获：
 
