@@ -131,7 +131,7 @@ foreach ($data as $item) {
 
 下面是一些输入字符串的输出：
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ## 参考
 

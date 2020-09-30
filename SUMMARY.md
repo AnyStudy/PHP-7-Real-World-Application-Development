@@ -13,4 +13,5 @@
     * [创建一个 PHP 5到 PHP 7代码转换器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/chuang-jian-yi-ge-php-5-dao-php-7-dai-ma-zhuan-huan-qi.md)
   * [第二章: 使用 PHP 7 高性能特性](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/README.md)
     * [了解抽象语法树](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/le-jie-chou-xiang-yu-fa-shu.md)
+    * [理解句法分析中的差异](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/li-jie-ju-fa-fen-xi-zhong-de-cha-yi.md)
 
