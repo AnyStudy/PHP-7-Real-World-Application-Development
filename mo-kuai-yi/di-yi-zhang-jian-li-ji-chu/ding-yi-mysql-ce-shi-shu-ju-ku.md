@@ -1,4 +1,4 @@
-# 定义 MySQL 测试数据库
+# 创建一个 MySQL 测试数据库
 
 为了测试目的，我们在本书的源代码中提供了一个 SQL 文件，其中包含了 [https://github.com/dbierer/php7cookbook](https://github.com/dbierer/php7cookbook) 的示例数据。这本书的案例中使用的数据库的名称是 php7cookbook。
 
