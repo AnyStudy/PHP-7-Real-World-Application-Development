@@ -53,7 +53,7 @@ public function getDomain($url)
 
 ```php
 <?php
-// modify as needed
+// 根据需要修改
 define('DEFAULT_URL', 'unlikelysource.com');
 define('DEFAULT_TAG', 'img');
 
