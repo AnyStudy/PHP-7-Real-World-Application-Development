@@ -5,4 +5,5 @@
   * [第一章、建立基础](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/README.md)
     * [PHP 7 安装注意事项](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/php-7-an-zhuang-zhu-yi-shi-xiang.md)
     * [使用内置的 PHP web 服务器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/shi-yong-nei-zhi-de-php-web-fu-wu-qi.md)
+    * [定义 MySQL 测试数据库](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/ding-yi-mysql-ce-shi-shu-ju-ku.md)
 
