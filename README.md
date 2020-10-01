@@ -46,5 +46,17 @@ PHP 7 在开源社区掀起了一场风暴，它打破了之前版本的速度�
 
 课程的代码包也托管在github上  [https://GitHub.com/packtpublishing/php-7-be-pro-at-applications-development](https://GitHub.com/packtpublishing/php-7-be-pro-at-applications-development) 。
 
+## 法律申明
+
+译者纯粹出于**学习目的**与**个人兴趣**翻译本书，不追求任何经济利益。
+
+译者保留对此版本译文的署名权，其他权利以原作者和出版社的主张为准。
+
+本译文只供学习研究参考之用，不得公开传播发行或用于商业用途。有能力阅读英文书籍者请购买正版支持。
+
+### LICENSE
+
+CC-BY 4.0
+
 
 
