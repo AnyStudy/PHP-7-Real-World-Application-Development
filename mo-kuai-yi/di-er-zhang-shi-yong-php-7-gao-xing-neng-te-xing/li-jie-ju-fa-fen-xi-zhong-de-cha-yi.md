@@ -57,7 +57,7 @@ $foo = new class
 echo $foo->$bar['bada']();
 ```
 
-## 它是如何运行的...
+## 如何运行...
 
 将1和2中所示的代码示例放在一个单独的PHP文件中，您可以命名为 `chap_02_understanding_diffs_in_parsing.php` 。 首先使用PHP 5执行该脚本，您将注意到一系列错误，如下所示：
 

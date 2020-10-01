@@ -88,7 +88,7 @@ public function __call($method, $params)
 >
 > 当你沉浸在AST所带来的新的表达自由中时，一定要记住，你最终写的代码，从长远来看，可能是非常“神秘“的，这最终会造成长期的维护问题。
 
-## 它是如何运行的...
+## 如何运行...
 
 首先，我们创建一个示例文件 `chap_02_web_filtering_ast_example.php`，利用第一章 "建立基础 "中定义的自动加载类，获取 `Application\Web\Security` 的实例：
 
