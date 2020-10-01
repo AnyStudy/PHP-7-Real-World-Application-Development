@@ -74,7 +74,7 @@ public function getAttribute($url, $attr, $domain = NULL)
 }
 ```
 
-## 它是如何工作的...
+## 它是如何运行的...
 
 为了使用新的 `Hoover` 类，请初始化自动加载器（如前所述）并创建 `Hoover` 类的实例。 然后，您可以运行 `Hoover::getTags()` 方法，从指定为参数的URL生成标签数组。
 

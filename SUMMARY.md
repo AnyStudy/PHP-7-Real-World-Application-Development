@@ -14,4 +14,5 @@
   * [第二章: 使用 PHP 7 高性能特性](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/README.md)
     * [了解抽象语法树](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/le-jie-chou-xiang-yu-fa-shu.md)
     * [理解句法分析中的差异](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/li-jie-ju-fa-fen-xi-zhong-de-cha-yi.md)
+    * [理解 foreach\(\) 处理中的差异](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/li-jie-foreach-chu-li-zhong-de-cha-yi.md)
 

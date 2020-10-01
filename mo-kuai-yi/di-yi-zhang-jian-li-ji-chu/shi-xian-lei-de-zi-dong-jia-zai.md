@@ -94,7 +94,7 @@ public function __construct($dirs = array())
 }
 ```
 
-## 它是如何工作的...
+## 它是如何运行的...
 
 为了使用我们刚刚定义的 autoloader 类，您将需要 `require Loader.php` 。 如果名称空间文件位于当前目录以外的目录中，则还应该运行 `Loader :: init()` 并提供其他目录路径。
 
