@@ -11,7 +11,7 @@
     * [抓取一个网站](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/zhua-qu-yi-ge-wang-zhan.md)
     * [建立一个深度网络扫描器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/jian-li-yi-ge-shen-du-wang-luo-sao-miao-qi.md)
     * [创建一个 PHP 5 到 PHP 7 代码转换器](mo-kuai-yi/di-yi-zhang-jian-li-ji-chu/chuang-jian-yi-ge-php-5-dao-php-7-dai-ma-zhuan-huan-qi.md)
-  * [第二章: 使用 PHP 7 高性能特性](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/README.md)
+  * [第二章、使用 PHP 7 高性能特性](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/README.md)
     * [了解抽象语法树](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/le-jie-chou-xiang-yu-fa-shu.md)
     * [理解句法分析中的差异](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/li-jie-ju-fa-fen-xi-zhong-de-cha-yi.md)
     * [理解 foreach\(\) 处理中的差异](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/li-jie-foreach-chu-li-zhong-de-cha-yi.md)
@@ -19,6 +19,8 @@
     * [遍历海量文件](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/bian-li-hai-liang-wen-jian.md)
     * [将电子表格上传到数据库](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/jiang-dian-zi-biao-ge-shang-chuan-dao-shu-ju-ku.md)
     * [递归目录迭代器](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/di-gui-mu-lu-die-dai-qi.md)
+  * [第三章、使用 PHP 函数](mo-kuai-yi/untitled.md)
+  * [第四章、使用 PHP 面向对象程序设计](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji.md)
+  * [第五章、与数据库的交互](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu.md)
 * [模块二](http://www.broadview.com.cn/book/4912)
-* [Untitled](untitled.md)
 
