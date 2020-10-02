@@ -2,7 +2,7 @@
 
 在某些相对不明显的情况下，`foreach()` 循环内的代码行为在 PHP 5 和 PHP 7 之间会有所不同。首先，内部有了很大的改进，这意味着在速度上，`foreach()` 循环内的处理在 PHP 7 下运行会比 PHP 5 快得多。 在 PHP 5 中注意到的问题包括在 `foreach()` 循环内对数组使用 `current()` 和 `unset()` 。其他问题还包括在操作数组本身时通过引用传递值。
 
-## 怎么做...
+## 如何做...
 
 1.考虑以下代码块:
 
@@ -244,11 +244,11 @@ foreach ($a as &$x) {
 
 将这些代码示例添加到一个PHP文件中，`chap_02_foreach.php` 。在PHP 5下通过命令行运行该脚本。预期的输出如下：
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 在 PHP 7下运行相同的脚本，注意不同之处：
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## 参考
 
