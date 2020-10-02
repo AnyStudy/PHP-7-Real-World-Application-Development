@@ -123,7 +123,7 @@ foreach ($access->frequency as $key => $value) {
 | :--- | :--- | :--- |
 | 快速参数解析 | [https://wiki.php.net/rfc/fast\_zpp](https://wiki.php.net/rfc/fast_zpp) | 在 PHP 5 中，每次调用函数时都要对提供给函数的参数进行解析。参数以字符串的形式传入，并以类似于 `scanf()` 函数的方式进行解析。在 PHP 7 中，这个过程得到了优化，变得更加高效，从而使性能得到了显著的提高。这种改进很难衡量，但似乎在6%左右。 |
 | PHP NG | [https://wiki.php.net/rfc/phpng](https://wiki.php.net/rfc/phpng) | PHP NG（下一代）计划代表了PHP语言的大部分重写。它保留了现有的功能，但包含了所有可以想象到的节省时间和提高效率的措施。数据结构被压缩，内存被更有效地使用。仅仅是一个影响数组处理的变化，就使性能得到了显著的提高，同时大大减少了内存的使用。 |
-| 删除无效的包袱 | [https://wiki.php.net/rfc/removal\_of\_dead\_sapis\_and\_exts](https://wiki.php.net/rfc/removal_of_dead_sapis_and_exts) | 大约有二十多个扩展属于这些类别中的一种：废弃的、不再维护的、未维护的依赖关系、或未移植到 PHP 7。经过核心开发人员的投票，决定删除 2/3 或 "短名单 "上的扩展。这样做的结果是减少了开销，加快了PHP语言未来的整体开发速度。 |
+| 删除无效的扩展 | [https://wiki.php.net/rfc/removal\_of\_dead\_sapis\_and\_exts](https://wiki.php.net/rfc/removal_of_dead_sapis_and_exts) | 大约有二十多个扩展属于这些类别中的一种：废弃的、不再维护的、未维护的依赖关系、或未移植到 PHP 7。经过核心开发人员的投票，决定删除 2/3 或 "短名单 "上的扩展。这样做的结果是减少了开销，加快了PHP语言未来的整体开发速度。 |
 
 
 
