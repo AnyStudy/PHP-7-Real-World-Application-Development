@@ -113,7 +113,7 @@ foreach ($access->frequency as $key => $value) {
 
 他的输出会根据你处理的 `access.log` 而有所不同。下面是一个例子：
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ## 更多...
 

@@ -244,11 +244,11 @@ foreach ($a as &$x) {
 
 将这些代码示例添加到一个PHP文件中，`chap_02_foreach.php` 。在PHP 5下通过命令行运行该脚本。预期的输出如下：
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 在 PHP 7下运行相同的脚本，注意不同之处：
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ## 参考
 
