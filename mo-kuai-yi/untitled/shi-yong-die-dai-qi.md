@@ -149,7 +149,7 @@ $l = new LimitIterator($f, 2, 6);
 showElements($l);
 ```
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 13.回到产生国家名称列表的示例，假设我们希望遍历由国家名称和ISO代码组成的多维数组，而不仅仅是国家名称。 到目前为止提到的简单迭代器是不够的。 相反，我们将使用所谓的递归迭代器。
 
@@ -255,7 +255,7 @@ try {
 
 输出结果如下所示：
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 最后，为了测试国家数据库查询的递归迭代，你需要包含迭代器的库文件，以及 `Application\Database\Connection` 类：
 
@@ -284,9 +284,9 @@ try {
 
 下面是你期望从 `RecursiveArrayIterator` 输出中看到的：
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 下面是使用 `RecursiveIteratorIterator` 后的输出：
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 

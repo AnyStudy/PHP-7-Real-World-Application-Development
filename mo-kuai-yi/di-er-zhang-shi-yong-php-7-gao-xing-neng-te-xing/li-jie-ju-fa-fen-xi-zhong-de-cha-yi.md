@@ -61,11 +61,11 @@ echo $foo->$bar['bada']();
 
 将1和2中所示的代码示例放在一个单独的PHP文件中，您可以命名为 `chap_02_understanding_diffs_in_parsing.php` 。 首先使用PHP 5执行该脚本，您将注意到一系列错误，如下所示：
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 错误的原因是PHP 5解析不一致，并且就请求的变量-变量的状态得出了错误的结论（如前所述）。 现在，您可以继续添加其余示例，如步骤5和6所示。如果您随后在PHP 7中运行此脚本，则将显示所描述的结果，如下所示：
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ## 参考
 
