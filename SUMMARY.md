@@ -21,6 +21,7 @@
     * [递归目录迭代器](mo-kuai-yi/di-er-zhang-shi-yong-php-7-gao-xing-neng-te-xing/di-gui-mu-lu-die-dai-qi.md)
   * [第三章、使用 PHP 函数](mo-kuai-yi/untitled/README.md)
     * [函数开发](mo-kuai-yi/untitled/han-shu-kai-fa.md)
+    * [数据类型提示](mo-kuai-yi/untitled/shu-ju-lei-xing-ti-shi.md)
   * [第四章、使用 PHP 面向对象程序设计](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji.md)
   * [第五章、与数据库的交互](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu.md)
 * [模块二](http://www.broadview.com.cn/book/4912)

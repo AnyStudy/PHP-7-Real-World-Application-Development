@@ -6,6 +6,7 @@
 * 原书名称：《[PHP 7: Real World Application Development](https://www.packtpub.com/php-7-real-world-application-development)》
 * 译者：金弘扬（[ganymedenil@gmail.com](mailto:ganymedenil@gmail.com)）
 * Gitbook地址：[PHP 7:真实世界的应用开发](https://ganymedenil.gitbook.io/php-7/)
+* github：[https://github.com/AnyStudy/PHP-7-Real-World-Application-Development](https://github.com/AnyStudy/PHP-7-Real-World-Application-Development)
 
 推荐使用 Gitbook 以获取最佳阅读体验。
 
