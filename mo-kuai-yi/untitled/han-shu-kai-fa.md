@@ -162,7 +162,7 @@ echo someInfinite(22.22, 'A', ['a' => 1, 'b' => 2]);
 
 输出结果是这样的：
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 我们可以如下调用 `someInfinite()` ：
 
@@ -174,5 +174,5 @@ foreach (someDirScan(__DIR__ . DIRECTORY_SEPARATOR . '..') as $item) {
 
 输出结果如下：
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 

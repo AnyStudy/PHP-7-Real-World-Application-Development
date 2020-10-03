@@ -74,7 +74,7 @@ var_dump($now);
 
 如预期的那样，输出为字符串：
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 现在，您可以调用 `convertsToString()` 并提供三个整数作为参数。 请注意，返回类型为字符串：
 
@@ -83,7 +83,7 @@ echo "\nconvertsToString()\n";
 var_dump(convertsToString(2, 3, 4));
 ```
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 为了说明这一点，您可以将一个类分配为返回值，请使用三个整数参数调用 `makeDateTime()` ：
 
@@ -93,7 +93,7 @@ $d = makesDateTime(2015, 11, 21);
 var_dump($d);
 ```
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 最后，使用三个整数参数调用 `rongDateTime()` ：
 
@@ -108,7 +108,7 @@ try {
 
 请注意，在运行时会引发 `TypeError` ：
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ## 更多...
 
