@@ -142,7 +142,7 @@ try {
 
 这是整体的输出：
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ## 参考
 
