@@ -4,7 +4,7 @@
 
 * 作者：[Doug Bierer](https://learning.oreilly.com/search/?query=author%3A%22Doug%20Bierer%22&sort=relevance&highlight=true), [Altaf Hussain](https://learning.oreilly.com/search/?query=author%3A%22Altaf%20Hussain%22&sort=relevance&highlight=true), [Branko Ajzele](https://learning.oreilly.com/search/?query=author%3A%22Branko%20Ajzele%22&sort=relevance&highlight=true)
 * 原书名称：《[PHP 7: Real World Application Development](https://www.packtpub.com/php-7-real-world-application-development)》
-* 译者：GanymedeNil（[ganymedenil@gmail.com](mailto:ganymedenil@gmail.com)）
+* 译者：金弘扬（[ganymedenil@gmail.com](mailto:ganymedenil@gmail.com)）
 * Gitbook地址：[PHP 7:真实世界的应用开发](https://ganymedenil.gitbook.io/php-7/)
 * github：[https://github.com/AnyStudy/PHP-7-Real-World-Application-Development](https://github.com/AnyStudy/PHP-7-Real-World-Application-Development)
 
