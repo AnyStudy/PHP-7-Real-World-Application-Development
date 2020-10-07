@@ -28,6 +28,12 @@
   * [第四章、使用 PHP 面向对象程序设计](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/README.md)
     * [类的开发](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/lei-de-kai-fa.md)
     * [类的扩展](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/lei-de-kuo-zhan.md)
+    * [使用静态属性和方法](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/shi-yong-jing-tai-shu-xing-he-fang-fa.md)
+    * [使用命名空间](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/shi-yong-ming-ming-kong-jian.md)
+    * [定义可见性](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/ding-yi-ke-jian-xing.md)
+    * [使用接口](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/shi-yong-jie-kou.md)
+    * [使用特性](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/shi-yong-te-xing.md)
+    * [实现匿名类](mo-kuai-yi/di-si-zhang-shi-yong-php-mian-xiang-dui-xiang-cheng-xu-she-ji/shi-xian-ni-ming-lei.md)
   * [第五章、与数据库的交互](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu.md)
 * [模块二](http://www.broadview.com.cn/book/4912)
 
