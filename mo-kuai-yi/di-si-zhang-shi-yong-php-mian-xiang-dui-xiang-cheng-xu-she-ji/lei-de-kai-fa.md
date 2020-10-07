@@ -161,7 +161,7 @@ echo PHP_EOL;
 
 输出将显示 `$test` 属性的初始值，之后是通过调用 `setTest()` 修改的新值：
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 下一个例子在 `NameAddress.php` 中定义两个类，`Name`和`Address`。您可以用下面的代码来调用和使用这两个类：
 
@@ -183,11 +183,11 @@ echo $name->getName() . ' lives at ' . $addr->getAddress();
 
 接下来是这个例子的输出：
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 步骤3也展示了在一个文件中定义两个类，但在本例中，目的是证明 PHP 中的类名是不区分大小写的。将代码放入文件 `TwoClass.php` 中。 当您尝试包含文件时，将生成错误：
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 为了演示直接使用 `stdClass`创建一个实例，给一个属性赋值，然后使用 `var_dump()` 来显示结果。要了解 `stdClass` 是如何在内部使用的，使用 `var_dump()` 来显示一个 `PDO` 查询的结果，其中 fetch 模式被设置为 `FETCH_OBJ`。
 
@@ -210,7 +210,7 @@ $row  = $stmt->fetch(PDO::FETCH_OBJ);
 
 这是输出：
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ## 参考
 
