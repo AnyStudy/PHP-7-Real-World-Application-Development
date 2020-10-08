@@ -79,7 +79,7 @@ function __autoload($class)
 
 为了便于说明，请定义与 `Application \*` 名称空间匹配的目录结构。 创建一个基本文件夹 `Application` 和一个子文件夹 `Entity`。 您还可以根据需要包括其他章节中使用的任何子文件夹，例如 `Database` 和 `Generic` ：
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 接下来，在 `Application/Entity` 文件夹下创建三个实体类，每个实体类在各自的文件中：`Name.php`，`Address.php`和`Profile.php`。 我们仅在此处显示 `Application\Entity\Name`。 `Application\Entity\Address`和 `Application\Entity\Profile`将相同，除了 `Address` 具有`$address` 属性，`Profile`具有 `$profile` 属性，每个属性都具有适当的 `get` 和 `set`方法：
 
@@ -135,7 +135,7 @@ var_dump($prof);
 
 这是输出：
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 接下来，使用**另存为**将文件复制到名为 `chap_04_oop_namespace_example_2.php` 的新文件中。 将 `use` 语句更改为以下内容：
 
@@ -155,7 +155,7 @@ $prof = new Profile();
 
 当你运行这个脚本时，这里是输出：
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 最后，再次运行**另存为**并创建一个新文件 `chap_04_oop_namespace_example_3.php`。 现在，您可以测试PHP 7中引入的 **group use** 功能：
 
@@ -172,7 +172,7 @@ $prof = new Profile();
 
 同样，当你运行这段代码时，输出将与前面的输出相同：
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 
 

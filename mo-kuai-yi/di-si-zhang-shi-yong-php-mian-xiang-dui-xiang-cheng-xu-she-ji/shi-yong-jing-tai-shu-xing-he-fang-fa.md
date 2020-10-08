@@ -70,7 +70,7 @@ echo PHP_EOL;
 
 你会看到这样的输出：
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 为了说明后期静态绑定，基于前面显示的类 `Test2` 和 `Child` ，请尝试以下代码：
 
@@ -83,7 +83,7 @@ echo Child::getLateTest();
 
 输出说明了 `self` 和 `static` 的区别：
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 最后，要测试前面显示的 `factory()` 方法，请将代码保存到 `Application\Database` 文件夹中`Connection.php` 文件的 `Application\Database\Connection` 类中。 然后，您可以尝试以下操作：
 
@@ -99,7 +99,7 @@ echo $country . '';
 
 您将看到从示例数据库中提取的国家/地区列表：
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 ## 参考...
 

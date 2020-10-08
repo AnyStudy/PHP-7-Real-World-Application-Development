@@ -121,13 +121,13 @@ var_dump($customer);
 
 请注意，`$id` 属性以及 `getId()` 和 `setId()` 方法都是从父类 `Base` 类继承到子类 `Customer` 中的：
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 为了说明抽象方法的使用，想象一下，你希望给任何扩展 `Base` 的类添加某种验证能力。问题是，我们无法知道在继承的类中可能会验证什么。唯一可以确定的是，你必须有一个验证能力。
 
 把前面解释中提到的同一个 `Base` 类，添加一个新的方法 `validate()` 。将该方法标记为抽象方法，并且不要定义任何代码。注意当子类 `Customer` 类扩展 `Base` 时，会发生什么。
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 如果你再把 `Base` 类标记为抽象类，但没有在子类中定义一个 `validate()` 方法，就会产生同样的错误。最后，继续在子类 `Customer` 中实现 `validate()` 方法：
 
@@ -174,7 +174,7 @@ echo ($customer->validate()) ? 'VALID' : 'NOT VALID';
 
 这是输出：
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 为了展示单线继承，在前面步骤1所示的 `Base` 和 `Customer` 的第一个例子中添加一个新的 `Member` 类：
 
@@ -235,7 +235,7 @@ echo test($member)   . PHP_EOL;
 
 这是输出：
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 但是，如果你试图用一个不在继承线中的对象实例运行 `test()` ，就会抛出 `TypeError`：
 
