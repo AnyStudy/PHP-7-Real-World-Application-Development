@@ -212,7 +212,7 @@ var_dump($customer);
 
 从输出中可以看到（下图所示），属性 `$id` 中存储了 `stdClass()` 的实例，这就是在特性中定义的行为：
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 为了说明直接定义的类方法如何覆盖特性方法，请将步骤9中提到的代码块复制到单独的文件 `chap_04_oop_trait_methods_do_not_override_class_methods.php` 中。 添加以下代码行：
 
@@ -225,7 +225,7 @@ var_dump($customer);
 
 从以下输出中可以看到，`$id` 属性存储为整数，如在 `Customer` 类中定义的，而特性将 `$id` 定义为 `stdClass` 的实例：
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 在步骤10中，您学习了如何在使用多个特性时解决重复的方法名称冲突。 将步骤11中显示的代码块复制到单独的文件 `chap_04_oop_trait_multiple.php` 中。 添加以下代码：
 
@@ -242,7 +242,7 @@ var_dump($a);
 
 请注意，在下面的输出中，`setKey()` 返回的数据是PHP 7新函数`random_bytes()` \(在 `NameTrait中定义`\)产生的，而 `setKeyDate()` 返回的数据是使用 `date()` 和 `rand()` 函数\(在 `IdTrait` 中定义\)产生的：
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 
 
