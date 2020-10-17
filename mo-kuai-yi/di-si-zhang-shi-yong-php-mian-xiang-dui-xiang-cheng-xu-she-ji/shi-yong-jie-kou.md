@@ -2,7 +2,7 @@
 
 接口是系统架构师的实用工具，通常用于应用编程接口（API）的原型设计。接口不包含实际的代码，但可以包含方法的名称以及方法的签名。
 
-{% hint style="warning" %}
+{% hint style="info" %}
 接口中标识的所有方法的可见性级别均为 `public`。
 {% endhint %}
 
@@ -125,7 +125,7 @@ class DateTimeHandler implements DateAware, TimeAware
 
 6.由于该代码块的存在，将产生一个致命的错误（不能被捕获！）。为了解决这个问题，首选的方法是从任意一个接口中删除setBoth\(\)的定义。或者，你也可以调整方法签名来匹配。
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **最佳实践**
 
 不要定义有重复或重叠方法定义的接口。

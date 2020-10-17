@@ -79,7 +79,7 @@ class Registry
 
 ```
 
-{% hint style="warning" %}
+{% hint style="info" %}
 您可以将方法标记为 `final`，以防止其被覆盖。将一个类标记为 `final`，以防止它被扩展。
 {% endhint %}
 
