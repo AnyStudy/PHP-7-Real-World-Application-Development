@@ -151,5 +151,5 @@ $result = findCustomerById(rand(1,79), $conn);
 
 关键的部分是，通过调用内嵌的匿名函数`$result['purchases']($result['id'], $conn)`，将二次查找作为视图逻辑的一部分来执行。下面是输出结果。
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 

@@ -61,7 +61,7 @@ public function fetchById($id)
 
 4.然而，在这里我们又遇到了一个问题：`fetch()`与`fetchObject()`不同，不能覆盖受保护的属性；如果尝试的话，会产生以下错误信息。这意味着我们要么将所有属性定义为`public`，要么考虑另一种方法。
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 5. 我们将考虑的最后一种方法是以数组的形式获取结果，并手动给实体注入。尽管这种方法在性能上成本略高，但它允许任何潜在的实体构造函数正常运行，并将属性安全地定义为私有或保护。
 
@@ -215,7 +215,7 @@ var_dump($service->fetchById(rand(1,79)));
 
 这是输出。
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 现在将步骤6至15中的代码复制到服务类中。将要插入的数据添加到`chap_05_entity_to_query.php`调用程序中。然后我们使用这些数据生成一个`Customer`实体实例。
 
@@ -256,7 +256,7 @@ var_dump($cust);
 
 下面是调用程序的输出。
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 ## 更多...
 
