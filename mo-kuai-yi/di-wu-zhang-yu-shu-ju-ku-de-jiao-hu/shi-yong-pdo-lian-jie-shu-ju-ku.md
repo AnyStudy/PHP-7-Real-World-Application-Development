@@ -355,7 +355,7 @@ try {
 
 下面是结果输出。
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 在PDO构造函数中添加选项，将错误模式设置为 `EXCEPTION`。现在修改SQL语句，观察产生的错误信息。
 
@@ -441,7 +441,7 @@ $stmt->execute(['val' => 100, 'level' => 'BEG']);
 
 下面是结果输出。
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 在调用 `PDOStatement::execute()`时，你可以不提供参数，而是绑定参数。这允许您将变量分配给占位符。在执行时，使用变量的当前值。
 
