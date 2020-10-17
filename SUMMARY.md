@@ -38,5 +38,6 @@
     * [使用PDO连接数据库](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/shi-yong-pdo-lian-jie-shu-ju-ku.md)
     * [构建一个 OOP SQL 查询生成器](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/gou-jian-yi-ge-oop-sql-cha-xun-sheng-cheng-qi.md)
     * [处理分页](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/chu-li-fen-ye.md)
+    * [定义实体以匹配数据库表](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/ding-yi-shi-ti-yi-pi-pei-shu-ju-ku-biao.md)
 * [模块二](http://www.broadview.com.cn/book/4912)
 

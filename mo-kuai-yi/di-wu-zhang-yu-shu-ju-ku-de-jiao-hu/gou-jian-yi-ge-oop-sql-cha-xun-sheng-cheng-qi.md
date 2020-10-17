@@ -122,7 +122,7 @@ echo Finder::getSql();
 
 这是预编码的结果：
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 ## 参考
 
