@@ -215,7 +215,7 @@ var_dump($service->fetchById(rand(1,79)));
 
 这是输出。
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 现在将步骤6至15中的代码复制到服务类中。将要插入的数据添加到`chap_05_entity_to_query.php`调用程序中。然后我们使用这些数据生成一个`Customer`实体实例。
 

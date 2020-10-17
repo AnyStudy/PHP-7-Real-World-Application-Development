@@ -184,7 +184,7 @@ var_dump($cust);
 
 下面是前面代码的输出。
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 ## 参考
 

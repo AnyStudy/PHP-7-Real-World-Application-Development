@@ -40,5 +40,7 @@
     * [处理分页](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/chu-li-fen-ye.md)
     * [定义实体以匹配数据库表](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/ding-yi-shi-ti-yi-pi-pei-shu-ju-ku-biao.md)
     * [将实体类与RDBMS查询绑定](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/jiang-shi-ti-lei-yu-rdbms-cha-xun-bang-ding.md)
+    * [将二次查找嵌入到查询结果中](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/jiang-er-ci-cha-zhao-qian-ru-dao-cha-xun-jie-guo-zhong.md)
+    * [实现jQuery DataTables的PHP查找](mo-kuai-yi/di-wu-zhang-yu-shu-ju-ku-de-jiao-hu/shi-xian-jquery-datatables-de-php-cha-zhao.md)
 * [模块二](http://www.broadview.com.cn/book/4912)
 
