@@ -204,7 +204,7 @@ var_dump($validator->getItemsAsArray());
 
 正如预期的那样，好的数据不会产生任何验证错误。另一方面，坏数据会产生以下输出：
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 注意，缺失的字段，`address` 和`state_province`验证为`FALSE`，并返回缺失项目消息。
 

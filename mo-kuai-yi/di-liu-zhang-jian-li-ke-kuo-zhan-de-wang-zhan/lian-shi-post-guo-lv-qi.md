@@ -434,7 +434,7 @@ $config = [ 'filters' => [
 
 为了测试的目的，我们将使用`prospects`表作为目标。我们将不提供来自`$_POST`的数据，而是构建一个好数据和坏数据的数组。
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 现在你可以创建一个`chap_06_post_data_filtering.php`脚本，设置自动加载，包括消息和回调配置文件。
 
