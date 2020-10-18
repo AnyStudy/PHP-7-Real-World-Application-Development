@@ -162,9 +162,9 @@ $status2->setOptions($statusList, $checked2);
 
 下面是实际输出。
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 此外，您还可以看到元素在查看源页面中的出现方式。
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
