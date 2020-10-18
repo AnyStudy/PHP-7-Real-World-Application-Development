@@ -45,6 +45,7 @@
   * [第六章、建立可扩展的网站](mo-kuai-yi/di-liu-zhang-jian-li-ke-kuo-zhan-de-wang-zhan/README.md)
     * [创建通用表单元素生成器](mo-kuai-yi/di-liu-zhang-jian-li-ke-kuo-zhan-de-wang-zhan/chuang-jian-tong-yong-biao-dan-yuan-su-sheng-cheng-qi.md)
     * [创建一个HTML单选元素生成器](mo-kuai-yi/di-liu-zhang-jian-li-ke-kuo-zhan-de-wang-zhan/chuang-jian-yi-ge-html-dan-xuan-yuan-su-sheng-cheng-qi.md)
+    * [创建一个HTML选择元素生成器](mo-kuai-yi/di-liu-zhang-jian-li-ke-kuo-zhan-de-wang-zhan/chuang-jian-yi-ge-html-xuan-ze-yuan-su-sheng-cheng-qi.md)
   * [第七章、访问Web服务](mo-kuai-yi/di-qi-zhang-fang-wen-web-fu-wu.md)
   * [第八章、处理日期/时间和国际化方面](mo-kuai-yi/di-ba-zhang-chu-li-ri-qi-shi-jian-he-guo-ji-hua-fang-mian.md)
   * [第九章、开发中间件](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian.md)

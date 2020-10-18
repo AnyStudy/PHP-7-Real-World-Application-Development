@@ -152,7 +152,7 @@ $submit = new Generic('submit',
 
 下面是实际输出。
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 ## 更多...
 
