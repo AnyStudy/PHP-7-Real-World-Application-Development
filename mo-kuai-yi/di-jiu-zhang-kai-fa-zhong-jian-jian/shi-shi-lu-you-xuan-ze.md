@@ -210,7 +210,7 @@ php -S localhost:8080
 
 在浏览器中，当请求[http://localhost:8080/home](http://localhost:8080/home) 时的输出是这样的。
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%28116%29.png)
 
 ## 另见
 
