@@ -122,7 +122,7 @@ var_dump($a->getDate(TRUE));
 
 在输出中（如下图所示），可以看到 `$date` 属性可以使用字符串或实际的 `DateTime` 实例来设置。当执行 `getDate()` 时，你可以根据 `$asString` 标志的值返回一个字符串或一个 `DateTime` 实例。
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28121%29.png)
 
 接下来，看一下第2步中定义的代码。将这段代码复制到文件`chap_10_oop_using_getters_and_setters_defaults.php` 中，并添加以下内容。
 
@@ -169,7 +169,7 @@ echo PHP_EOL;
 
 如果你调用`getArrVal()`而不设置一个值，默认是一个空数组。设置一个数组值的工作原理和预期一样。然而，如果你提供一个非数组值作为参数，数组的类型提示会导致抛出`TypeError`，这个错误可以如这里所示。
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 
 最后，把步骤3中定义的`LotsProps`类放到一个单独的文件中，`chap_10_oop_using_getters_and_setters_magic_call.php`。现在添加代码来设置值。当然，会发生的是调用了神奇的方法`__call()`。在运行`preg_match()`后，不存在的属性的剩余部分，在字母设置后，将成为内部数组`$values`中的一个键。
 
@@ -208,5 +208,5 @@ $a->setCountry('USA');
 
 这是最后的输出。
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
