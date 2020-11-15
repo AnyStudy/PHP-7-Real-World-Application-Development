@@ -285,5 +285,5 @@ $results = $engine->search($criteria);
 
 以下是浏览器的输出示例。
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 

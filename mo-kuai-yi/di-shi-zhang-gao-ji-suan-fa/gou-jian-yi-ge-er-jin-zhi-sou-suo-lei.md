@@ -134,7 +134,7 @@ echo 'Upper:Mid:Lower:<=> | ' . $upper . ':' . $mid . ':' . $lower . ':' . ($ite
 
 输出如图所示。请注意上、中、下限是如何调整的，直到找到项目。
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
 ## 更多...
 

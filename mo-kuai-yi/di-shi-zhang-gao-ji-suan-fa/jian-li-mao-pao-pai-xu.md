@@ -6,7 +6,7 @@
 
 在下图中，第一次通关后，葡萄和香蕉互换，橙子和樱桃也互换。第2次通过后，葡萄和樱桃被交换。最后一关不再发生交换，冒泡排序结束。
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28128%29.png)
 
 ## 如何做...
 
@@ -113,5 +113,5 @@ echo printCustomer($headers, $linked, $customer);
 
 下面是一个输出的例子。
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 

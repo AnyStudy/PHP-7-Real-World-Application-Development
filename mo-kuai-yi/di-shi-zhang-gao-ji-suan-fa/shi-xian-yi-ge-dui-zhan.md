@@ -89,5 +89,5 @@ foreach ($stack() as $item) {
 
 下面是预期的输出。
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28131%29.png)
 
