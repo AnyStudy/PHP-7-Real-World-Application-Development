@@ -122,7 +122,7 @@ var_dump($a->getDate(TRUE));
 
 在输出中（如下图所示），可以看到 `$date` 属性可以使用字符串或实际的 `DateTime` 实例来设置。当执行 `getDate()` 时，你可以根据 `$asString` 标志的值返回一个字符串或一个 `DateTime` 实例。
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 接下来，看一下第2步中定义的代码。将这段代码复制到文件`chap_10_oop_using_getters_and_setters_defaults.php` 中，并添加以下内容。
 
