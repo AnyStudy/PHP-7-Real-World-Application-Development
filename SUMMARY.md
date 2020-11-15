@@ -78,7 +78,7 @@
     * [实现一个链表](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/shi-xian-yi-ge-lian-biao.md)
     * [建立冒泡排序](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/jian-li-mao-pao-pai-xu.md)
     * [实现一个堆栈](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/shi-xian-yi-ge-dui-zhan.md)
-    * [构建一个二进制搜索类](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/gou-jian-yi-ge-er-jin-zhi-sou-suo-lei.md)
+    * [构建一个二分法查找类](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/gou-jian-yi-ge-er-jin-zhi-sou-suo-lei.md)
     * [实现一个搜索引擎](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/shi-xian-yi-ge-sou-suo-yin-qing.md)
     * [显示多维数组并累计总数](mo-kuai-yi/di-shi-zhang-gao-ji-suan-fa/xian-shi-duo-wei-shu-zu-bing-lei-ji-zong-shu.md)
   * [第十一章、软件设计模式的实现](mo-kuai-yi/di-shi-yi-zhang-ruan-jian-she-ji-mo-shi-de-shi-xian.md)
