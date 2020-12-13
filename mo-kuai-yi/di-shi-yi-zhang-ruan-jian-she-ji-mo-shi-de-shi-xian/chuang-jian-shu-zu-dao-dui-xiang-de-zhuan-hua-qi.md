@@ -95,5 +95,5 @@ var_dump($b);
 
 结果如下截图所示。
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28136%29.png)
 
