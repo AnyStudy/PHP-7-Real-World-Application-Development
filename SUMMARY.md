@@ -90,7 +90,7 @@
     * [实施发布/订阅设计模式](mo-kuai-yi/di-shi-yi-zhang-ruan-jian-she-ji-mo-shi-de-shi-xian/shi-shi-fa-bu-ding-yue-she-ji-mo-shi.md)
   * [第十二章、提高网站安全](mo-kuai-yi/di-shi-er-zhang-ti-gao-wang-zhan-an-quan.md)
   * [第十三章、最佳实践、测试和调试](mo-kuai-yi/di-shi-san-zhang-zui-jia-shi-jian-ce-shi-he-tiao-shi.md)
-  * [A. 定义PSR-7类](mo-kuai-yi/a.-ding-yi-psr7-lei.md)
+  * [PSR-7](https://learnku.com/docs/psr/psr-7-http-message/1616)
 * [模块二](http://www.broadview.com.cn/book/4912)
 * [模块三](mo-kuai-san.md)
 
