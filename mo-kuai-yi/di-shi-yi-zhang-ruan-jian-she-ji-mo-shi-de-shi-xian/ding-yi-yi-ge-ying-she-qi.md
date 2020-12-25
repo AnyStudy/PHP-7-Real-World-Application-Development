@@ -410,7 +410,7 @@ while ($row = $sourceStmt->fetch(PDO::FETCH_ASSOC)) {
 
 下面是产生的三条SQL语句。
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 然后，我们可以使用SQL `JOIN`直接从数据库中查看数据，以确保关系得到维护。
 
