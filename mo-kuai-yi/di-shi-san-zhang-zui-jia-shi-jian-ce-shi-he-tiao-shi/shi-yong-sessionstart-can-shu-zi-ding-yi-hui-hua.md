@@ -17,7 +17,7 @@ class SessOptions
 
 2. 接下来，我们扫描`php.ini`会话指令列表\(在http://php.net/manual/en/session.configuration.php\)。我们特别要寻找那些在`Changeable`列中标记为`PHP_INI_ALL`的指令。这些指令可以在运行时被覆盖，因此可以作为 `session_start()` 的参数。
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28176%29.png)
 
 3. 然后，我们将这些定义为类常量，这将使这个类在开发时更加可用。大多数像样的代码编辑器都能够扫描该类，并给出一个常量列表，从而使管理会话设置变得容易。请注意，为了节省本书的空间，并没有显示所有的设置。
 
@@ -99,11 +99,11 @@ phpinfo(INFO_VARIABLES);
 
 如果你用浏览器的开发工具查找cookie的信息，你会注意到名称被设置为`UNLIKELYSOURCE`，到期时间是5分钟以后。
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 如果你对会话目录进行扫描，你会看到会话信息已经存储在那里。
 
-![](../../.gitbook/assets/image%20%28176%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
 ## 更多...
 

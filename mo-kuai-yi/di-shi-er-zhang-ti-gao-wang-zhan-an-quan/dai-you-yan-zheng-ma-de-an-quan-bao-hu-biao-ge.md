@@ -517,7 +517,7 @@ setCaptcha($phrase, $label, $image);
 
 下面是结果输出。
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
 为了演示如何使用图片验证码，请将`chap_12_captcha_text.php`中的代码复制到`cha_12_captcha_image.php`中。我们定义了常量来表示验证码图片的目录位置. \(一定要创建这个目录!\)否则，自动加载和使用语句的结构是相似的。注意，我们还定义了一个TrueType字体。不同之处用粗体表示。
 
@@ -570,7 +570,7 @@ if (!empty($_POST['login'])) {
 
 即使是视图逻辑也是一样的，因为我们使用的是`getImage(`\)，在图片验证码的情况下，它直接返回可用的HTML。下面是使用TrueType字体的输出。
 
-![](../../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%28173%29.png)
 
 ## 更多...
 

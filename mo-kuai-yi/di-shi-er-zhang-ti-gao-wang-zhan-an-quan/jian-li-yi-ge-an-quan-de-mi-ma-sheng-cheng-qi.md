@@ -195,7 +195,7 @@ echo $passGen->generate();
 
 下面是`PassGen`制作的几个密码示例。
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28195%29.png)
 
 ## 更多...
 

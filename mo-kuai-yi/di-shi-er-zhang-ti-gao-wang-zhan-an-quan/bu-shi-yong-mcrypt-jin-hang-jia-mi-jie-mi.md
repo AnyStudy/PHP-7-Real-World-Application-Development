@@ -144,7 +144,7 @@ echo implode(', ', openssl_get_cipher_methods());
 
 输出应该是这样的。
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 接下来，可以为要加密的纯文本、方法、密钥和IV添加值。举个例子，试试使用XTS操作模式下的AES，密钥大小为256。
 
@@ -180,7 +180,7 @@ $method, $key, 0, $iv);
 
 如果你为IV提供的字节数不正确，对于所选择的密码方法，将显示一条警告信息。
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28185%29.png)
 
 ## 更多...
 

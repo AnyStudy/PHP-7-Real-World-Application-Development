@@ -95,7 +95,7 @@ use Application\Error\ { Handler, ThrowsException };
 $throws1 = new ThrowsException($config);
 ```
 
-![](../../.gitbook/assets/image%20%28156%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 另一方面，如果你使用`try/catch`块，如果你的应用程序足够稳定，那么异常就会被捕获并允许继续。
 
@@ -110,7 +110,7 @@ echo 'Application Continues ...' . PHP_EOL;
 
 您将看到以下输出。
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28182%29.png)
 
 为了演示异常处理程序的使用，在`try/catch` 块之前，定义一个 `Handler` 实例，传递一个代表包含日志文件的目录的参数。在 `try/catch` 块之后，在该块之外，创建另一个 `ThrowsException` 实例。当你运行这个示例程序时，你会注意到第一个异常是在`try/catch`块内捕获的，而第二个异常是由处理程序捕获的。你还会注意到，在处理程序之后，应用程序结束。
 
@@ -128,7 +128,7 @@ echo 'Application Continues ...' . PHP_EOL;
 
 下面是完成的示例程序的输出，以及日志文件的内容。
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
 ## 更多...
 

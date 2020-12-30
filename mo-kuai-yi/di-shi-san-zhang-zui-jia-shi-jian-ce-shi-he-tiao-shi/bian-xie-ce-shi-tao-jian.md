@@ -79,7 +79,7 @@ phpunit tests
 
 你应该看到以下输出。
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 为了演示通过`bootstrap`文件来使用自动加载，创建一个新的`test_with_autoload`目录。在这个文件夹中，定义一个`bootstrap.php`文件，代码如步骤5所示。在 `tests_with_autoload` 中创建两个目录。`Demo`和`Simple`。
 
@@ -127,7 +127,7 @@ phpunit -c tests_with_autoload/phpunit.xml
 
 输出结果应如下所示：
 
-![](../../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28192%29.png)
 
 ## 更多...
 

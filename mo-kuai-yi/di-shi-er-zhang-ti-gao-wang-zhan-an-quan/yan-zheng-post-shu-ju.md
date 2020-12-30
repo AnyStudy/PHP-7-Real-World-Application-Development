@@ -91,7 +91,7 @@ foreach ($data as $field => $item) {
 
 将步骤3到步骤5中的代码放入一个名为`chap_12_post_data_validation_basic.php`的文件中。你还需要定义一个数据数组来模拟`$_POST`中的数据。在这种情况下，你需要使用前面提到的两个数组，一个是好数据，一个是坏数据。最后的输出应该是这样的。
 
-![](../../.gitbook/assets/image%20%28163%29.png)
+![](../../.gitbook/assets/image%20%28180%29.png)
 
 ## 更多...
 

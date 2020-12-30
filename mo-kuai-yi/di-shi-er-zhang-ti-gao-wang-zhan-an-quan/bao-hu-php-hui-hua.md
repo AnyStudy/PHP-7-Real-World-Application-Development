@@ -107,15 +107,15 @@ if (isset($_POST['login'])) {
 
 为了说明问题，我们还显示了`$_COOKIE`和`$_SESSION`的值，如下图所示，使用Vivaldi浏览器的截图。
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28146%29.png)
 
 然后，我们复制`PHPSESSID`的值，打开火狐浏览器，用一个叫Tamper Data的工具来修改cookie的值。
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
 在接下来的截图中可以看到，我们现在是一个经过认证的用户，无需输入用户名和密码。
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
 现在你可以实现前面步骤中讨论的变化。复制之前创建的文件到`chap_12_session_protected.php`。现在开始重新生成会话ID:
 
@@ -184,7 +184,7 @@ if (isset($_POST['login'])) {
 
 现在你可以使用新的`chap_12_session_protected.php`文件运行与之前提到的相同的过程。你会注意到的第一件事是，会话现在被认为是无效的。输出结果看起来像这样:
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28178%29.png)
 
 这是因为您现在使用的是不同的浏览器，所以拇指印不匹配。同样，如果您刷新第一个浏览器的页面，会话标识符将被重新生成，使任何先前复制的标识符过时。最后，注销按钮将完全清除会话信息。
 

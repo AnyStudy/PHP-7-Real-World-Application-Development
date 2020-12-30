@@ -163,7 +163,7 @@ $stmt = $conn->pdo->query('SELECT * FROM visitors');
 
 在浏览器中，启动`chap_12_form_csrf_test_unprotected.html`。以下是输出结果的显示方式。
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 正如你所看到的，尽管有过滤和使用准备好的声明，攻击还是成功了!
 
@@ -176,7 +176,7 @@ $stmt = $conn->pdo->query('SELECT * FROM visitors');
 
 当你在浏览器中运行新的HTML文件时，它会调用`chap_12_form_protected.php`，寻找一个不存在的标记。这里是预期的输出。
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 最后，继续定义一个名为`chap_12_form_protected.php`的文件，生成一个token，并将其显示为一个隐藏的元素。
 
@@ -213,7 +213,7 @@ $_SESSION['token'] = $token;
 
 当我们从表单中显示并提交数据时，令牌会被验证，并允许继续插入数据，如图所示。
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 ## 更多...
 

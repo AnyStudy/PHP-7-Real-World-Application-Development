@@ -45,7 +45,7 @@ php -r "unlink('composer-setup.php');"
 php composer.phar install
 ```
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 5. PHPUnit 和它的依赖项被放置在一个 `vendor` 文件夹中，如果该文件夹不存在，Composer 将会创建它。然后，调用 PHPUnit 的主要命令被符号化地链接到 `vendor/bin` 文件夹中。如果你把这个文件夹放在你的 `PATH` 中，你所需要做的就是运行这个命令，它将检查版本并顺便确认安装。
 
@@ -530,7 +530,7 @@ phpunit SimpleTest SimpleTest.php
 
 你应该看到以下输出。
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
 在`SimpleTest.php`中进行修改，使测试失败（第4步）。
 
@@ -544,7 +544,7 @@ public function testDiv()
 
 这是修订后的产出。
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../.gitbook/assets/image%20%28194%29.png)
 
 接下来，在`chap_13_unit_test_simple.php`中添加`table()`函数\(步骤5\)，在`SimpleTest.php`中添加`testTable()`\(步骤6\)。重新运行单元测试，观察结果。
 

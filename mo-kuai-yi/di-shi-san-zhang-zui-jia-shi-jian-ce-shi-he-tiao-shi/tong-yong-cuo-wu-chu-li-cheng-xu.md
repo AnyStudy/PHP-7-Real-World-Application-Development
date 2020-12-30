@@ -81,7 +81,7 @@ echo 'Application continues ... ' . PHP_EOL;
 
 因为这是一个错误，程序执行停止，你不会看到应用程序继续。
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 如果将方法调用包裹在`try/catch`块中，并抓取`Throwable`，则代码会继续执行。
 
@@ -103,7 +103,7 @@ echo 'Application continues ... ' . PHP_EOL;
 
 从下面的输出中，你还会注意到，程序退出时，代码为0，这说明一切正常。
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 最后，在`try/catch`块之后，再次运行错误，将echo语句移到最后。你将在输出中看到错误被捕获，但在日志文件中，注意到`DivisionByZeroError`是由异常处理程序捕获的，而`ParseError`是由错误处理程序捕获的。
 

@@ -10,13 +10,13 @@
 
 3. 您可能最终会分阶段转换数据。例如，您可以从一个列出国家代码和国家名称的网页中提取数据到一个文本文件中。
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 4. 由于这个列表很短，所以很容易将其剪切并粘贴到文本文件中。
 
 5. 我们可以搜索" "，然后用"\n"代替，这样就得到了。
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 6. 这些数据可以导入到电子表格中，然后让你导出到CSV文件中。例如，phpMyAdmin就有这样的功能。
 
@@ -455,7 +455,7 @@ foreach ($fake->generateData(10) as $row) {
 
 10行的输出结果是这样的。
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
 ## 更多...
 
