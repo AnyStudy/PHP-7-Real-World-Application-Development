@@ -38,7 +38,7 @@ PHP 生态系统有一个很棒的单元测试框架，叫做 PHPUnit，可以�
 
 对我们这样的默认项目运行 `phpunit` 命令会得到如下输出:
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
 请注意，bundle 测试不会自动提取。所以没有执行我们的 `src/AppBundle/Tests/Controller/CustomerControllerTest.php` 文件，该文件是在我们使用自动生成的 CRUD 时自动为我们创建的。不是因为它的内容默认被注释掉了，而是因为 `bundle` 测试目录对于 `phpunit` 不可见。为了让它执行，我们需要扩展 `phpunit.xml.dist` 文件，将它添加到目录 `testsuite` 中，如下所示:
 

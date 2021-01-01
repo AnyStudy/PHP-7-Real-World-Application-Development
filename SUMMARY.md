@@ -134,4 +134,5 @@
     * [测试](mo-kuai-san/symfony-gai-shu/ce-shi.md)
     * [验证](mo-kuai-san/symfony-gai-shu/yan-zheng.md)
     * [小结](mo-kuai-san/symfony-gai-shu/xiao-jie.md)
+  * [构建核心模块](mo-kuai-san/gou-jian-he-xin-mo-kuai.md)
 
