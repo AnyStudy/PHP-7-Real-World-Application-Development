@@ -8,8 +8,8 @@
 * 路由
 * 模板 
 * 表单 
-* 捆绑系统 
-* 数据库和Doctrine 
+* bundle 系统 
+* 数据库和 Doctrine 
 * 测试 
 * 验证
 

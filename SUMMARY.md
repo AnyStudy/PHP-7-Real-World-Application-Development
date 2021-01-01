@@ -125,4 +125,9 @@
     * [创建一个空白项目](mo-kuai-san/symfony-gai-shu/chuang-jian-yi-ge-kong-bai-xiang-mu.md)
     * [使用 Symfony 控制台](mo-kuai-san/symfony-gai-shu/shi-yong-symfony-kong-zhi-tai.md)
     * [控制器](mo-kuai-san/symfony-gai-shu/kong-zhi-qi.md)
+    * [路由](mo-kuai-san/symfony-gai-shu/untitled.md)
+    * [模板](mo-kuai-san/symfony-gai-shu/mo-ban.md)
+    * [表单](mo-kuai-san/symfony-gai-shu/biao-dan.md)
+    * [配置 Symfony](mo-kuai-san/symfony-gai-shu/pei-zhi-symfony.md)
+    * [bundle 系统](mo-kuai-san/symfony-gai-shu/bundle-xi-tong.md)
 
