@@ -130,4 +130,5 @@
     * [表单](mo-kuai-san/symfony-gai-shu/biao-dan.md)
     * [配置 Symfony](mo-kuai-san/symfony-gai-shu/pei-zhi-symfony.md)
     * [bundle 系统](mo-kuai-san/symfony-gai-shu/bundle-xi-tong.md)
+    * [数据库和 Doctrine](mo-kuai-san/symfony-gai-shu/shu-ju-ku-he-doctrine.md)
 
