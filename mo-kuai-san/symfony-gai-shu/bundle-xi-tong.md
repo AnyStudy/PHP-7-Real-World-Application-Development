@@ -67,11 +67,11 @@ php bin/console generate:bundle --namespace=Foggyline/TestBundle
 
 这将会触发一系列关于 bundle 的问题，最终导致 bundle 的创建，看起来像下面的截图：
 
-![](../../.gitbook/assets/image%20%28210%29.png)
+![](../../.gitbook/assets/image%20%28214%29.png)
 
 一旦完成这个过程，就会创建一个包含多个目录和文件的新 bundle，如下图所示：
 
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28221%29.png)
 
 Bundle 生成器很友好地创建了控制器、依赖注入扩展、路由、准备服务配置、模板，甚至测试。由于我们选择共享我们的 bundle，Symfony 选择了 XML 作为默认的配置格式。依赖扩展简单来说就是我们可以通过使用 `foggyline_test`作为 Symfony 主 `config.yml`的根元素来访问我们的 bundle 配置。实际的`foggyline_test`元素是在`DependencyInjection/Configuration.php`文件中定义的。
 

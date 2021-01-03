@@ -34,13 +34,13 @@ symfony new shop
 
 这将创建一个新的 `shop` 目录，其中包含在浏览器中运行应用程序所需的所有文件。在这些文件和目录中有 `src/AppBundle` 目录，它实际上是我们的核心模块。在我们可以在浏览器中运行我们的应用程序之前，我们需要将新创建的商店目录映射到一个主机名，比如 `shop.app`，这样我们就可以通过 [http://shop.app](http://shop.app) URL 在浏览器中访问它。一旦这样做，如果我们打开[ http://shop.app](%20http://shop.app) ,我们应该会看到**Welcome to Symfony 3.1，**如下所示:
 
-![](../.gitbook/assets/image%20%28216%29.png)
+![](../.gitbook/assets/image%20%28224%29.png)
 
 虽然我们现在还不需要数据库，但我们将在后面开发的其他模块中使用数据库连接，因此从一开始就应该设置它。为此，我们使用适当的数据库连接参数配置 `app/config/parameters.yml`。
 
 然后我们从[http://foundation.zurb.com/sites.html](http://foundation.zurb.com/sites.html) 下载Foundation for Sites。下载完成后，我们需要解压并将 `/js` 和 `/css` 目录复制到 `Symfony/web`目录下，如下图所示:
 
-![](../.gitbook/assets/image%20%28217%29.png)
+![](../.gitbook/assets/image%20%28226%29.png)
 
 {% hint style="info" %}
 值得注意的是，这是我们在模块中使用的Foundation的简化设置，其中我们仅使用CSS和JavaScript文件，而无需设置与Sass相关的任何内容。
@@ -359,7 +359,7 @@ public function privacyAndCookiePolicyAction()
 
 在这里，我们只是用 `row` 类将 header 和 content 封装到 `div` 元素中，只是为了给它提供一些结构。结果应该与这里显示的页面类似:
 
-![](../.gitbook/assets/image%20%28215%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 联系我们页面需要一个不同的方法，因为它将包含一个表单。要构建表单，我们使用 Symfony 的 `Form`组件，在 `src/AppBundle/Controller/DefaultController.php` 文件中添加以下内容:
 
@@ -432,7 +432,7 @@ public function contactAction(Request $request) {
 
 基于这几个标记，Twig 为我们处理表单呈现。页面如下所示:
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28213%29.png)
 
 我们已经差不多准备好所有的页面了。不过，有一点缺失了，那就是我们主页上的主题区域。与其他静态内容的页面不同，这个页面实际上是动态的，因为它列出了畅销书和在售产品。这些数据预计将来自其他模块，这些模块目前还不可用。尽管如此，这并不意味着我们不能为他们准备假的占位符。让我们继续编辑 `app/resources/views/default/index.html`。如下:
 
@@ -487,7 +487,7 @@ Http://dummyimage.com 图片库允许我们为我们的应用程序创建一个�
 
 在这一点上，我们应该看到的主页如下所示:
 
-![](../.gitbook/assets/image%20%28213%29.png)
+![](../.gitbook/assets/image%20%28219%29.png)
 
 ### 配置整个应用程序的安全
 
@@ -507,7 +507,7 @@ php bin/console security:encode-password
 
 这将产生如下输出:
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
 现在我们可以通过添加内存提供者来编辑`security.yml`，并将生成的编码密码复制粘贴到其中，如图所示:
 
