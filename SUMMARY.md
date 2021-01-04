@@ -136,4 +136,6 @@
     * [小结](mo-kuai-san/symfony-gai-shu/xiao-jie.md)
   * [构建核心模块](mo-kuai-san/gou-jian-he-xin-mo-kuai.md)
   * [构建目录模块](mo-kuai-san/gou-jian-mu-lu-mo-kuai.md)
+  * [构建客户模块](mo-kuai-san/gou-jian-ke-hu-mo-kuai.md)
+  * [构建支付模块](mo-kuai-san/gou-jian-zhi-fu-mo-kuai.md)
 
