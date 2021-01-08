@@ -138,4 +138,7 @@
   * [构建目录模块](mo-kuai-san/gou-jian-mu-lu-mo-kuai.md)
   * [构建客户模块](mo-kuai-san/gou-jian-ke-hu-mo-kuai.md)
   * [构建支付模块](mo-kuai-san/gou-jian-zhi-fu-mo-kuai.md)
+  * [构建发货模块](mo-kuai-san/gou-jian-fa-huo-mo-kuai.md)
+  * [构建销售模块](mo-kuai-san/gou-jian-xiao-shou-mo-kuai.md)
+  * [总结](mo-kuai-san/zong-jie.md)
 
