@@ -67,7 +67,7 @@
     * [构建一个周期性事件生成器](mo-kuai-yi/di-ba-zhang-chu-li-ri-qi-shi-jian-he-guo-ji-hua-fang-mian/gou-jian-yi-ge-zhou-qi-xing-shi-jian-sheng-cheng-qi.md)
     * [不使用gettext处理翻译](mo-kuai-yi/di-ba-zhang-chu-li-ri-qi-shi-jian-he-guo-ji-hua-fang-mian/bu-shi-yong-gettext-chu-li-fan-yi.md)
   * [第九章、开发中间件](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/README.md)
-    * [使用中间件进行认证](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/untitled.md)
+    * [使用中间件进行认证](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/shi-yong-zhong-jian-jian-jin-xing-ren-zheng.md)
     * [使用中间件实现访问控制](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/shi-yong-zhong-jian-jian-shi-xian-fang-wen-kong-zhi.md)
     * [使用高速缓存提高性能](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/shi-yong-gao-su-huan-cun-ti-gao-xing-neng.md)
     * [实施路由选择](mo-kuai-yi/di-jiu-zhang-kai-fa-zhong-jian-jian/shi-shi-lu-you-xuan-ze.md)
